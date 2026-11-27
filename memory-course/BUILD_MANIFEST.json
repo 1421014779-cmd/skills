@@ -1,0 +1,47 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "SKILL.md": "fdf9b4f83d9d0501e0a311dfe94c9ff13bb51c269835629539258331d3378cf0",
+    "references/392-yinbiao.md": "a3df482f46d55f47aa399a699ab6cc679b16771f7c70e17434d2b219fb005881",
+    "references/capabilities/ai-palace-scene-design.md": "d2d3cd1938a43934e3164880cdbc05e5f7302dac18d6b6276786b3c872b372a2",
+    "references/capabilities/analogy-memory.md": "03610e0e6a2aacd0d00ce529b3b9e4b238bc69550c5dcaee41b1b859b71b37a3",
+    "references/capabilities/cued-recall-review.md": "6d7ce1bc7ba1ded463ff776c1f44cbcf39ce9d547f5db390ea4ab0667db18fe4",
+    "references/capabilities/designed-output-learning.md": "08f4291bbdc031acf0797ccb2583bce6ffea8cc05f2b5ae89f6033dd29cffc88",
+    "references/capabilities/encoding-inventory-reuse.md": "faa74e9c24ae6a1a7c154c31f35ad48cc342f47d59c19e580ecce221a021dd9b",
+    "references/capabilities/encoding-six-principles.md": "c6ee554201af2a8a868fbf57037a8df23d573e7c4c37f6cbbb46fd77b83cfaf5",
+    "references/capabilities/internal-loci-encoding.md": "3645697ea394d81d7946d2e2e2a80e9890a5873a9713ae8a873e351fc074e58a",
+    "references/capabilities/intersection-loci.md": "10f101e9ef362f5bf20665016986b22d2c96bc4171346f24dfd30ad68d1649e0",
+    "references/capabilities/loci-stability-audit.md": "60b56e8d4d1cd8ed45e22f3e7d1b22e397aa1a16777f4333b05b72be783c2a07",
+    "references/capabilities/mindmap-sanpei-audit.md": "67b66e61c0eb501015f82987779c18e75ec34c7db52a49d891fc9a5e9e657fea",
+    "references/capabilities/recall-orientation-revise.md": "ed91a9838d737c35cf96bfbe51ff1b7057780186cae93e22c2486fe1831d4170",
+    "references/capabilities/sequential-pegs.md": "cbd47799b8e8b44064fb73d485752f88dc7c40fec7ada537f534a0236ee1ef01",
+    "references/capabilities/strong-association-scene-expansion.md": "1c5af8413b6f058622c4cb0512a071a9c2086ee2b23fb5777b33064722bf8c48",
+    "references/capabilities/three-dimension-conversion.md": "72bf9cfdb2f12b9a26f2b7b48f3a1ce75ac8d9687fe68b4adb027148484619be",
+    "references/capabilities/universal-phonetic.md": "b173c0cc3aae582e70f153ba2f6ab90811d082678c70ca2b8158d2d42624f4f1",
+    "references/capability-index.md": "76f81f0123cc0aca01230020c7117c3dea6f19610107783057946fcb0fd21027",
+    "references/cheatsheet.md": "97e8917e0dfd5597a5978b8e3429e2f6b037b2405b19bc29ecdbb39937027445",
+    "references/glossary.md": "cfb1ba17abb8a5e96b45a25d10c102febe80b20dafeed44ac4b36a8255c23970",
+    "references/overview.md": "011d6dba0eea40b47ffc0a9e360e8fa9ecc9fb2768dbbe21d1c2394261816643",
+    "references/worked-examples.md": "6f395fbf79eef0ac2f5feb6c2d03d672cf03f644c9ba7439f1121f9f8921c328"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.memory-course",
+  "bundle_sha256": "a2ade7a08b29e533136082b414b549c0294408dfa75117fd0099fe7ee58f26bc",
+  "variant": "single",
+  "run_id": "run-20261114-015426-999de6",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 15,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
